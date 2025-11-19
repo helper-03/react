@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Rodrigues_JP",
+    "slug": "auth-sqlite",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/rods.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/rods.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/rods.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.johngraciosa.authsqlite"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "894590aa-7947-4c2a-a50f-a5bb91044bd7"
+      }
+    }
+  }
+}
